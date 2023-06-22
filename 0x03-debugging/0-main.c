@@ -4,13 +4,12 @@
   *main - tests function that prints if integer is positive
   *Return: 0
   */
-
 int main(void)
 {
+
 	int i;
 
 	i=0;
 	positivr_or negative(i);
-
 	return (0);
 }
